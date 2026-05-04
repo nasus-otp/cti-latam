@@ -22,9 +22,6 @@ Debian:
     ~~~
     pip install requests feedparser beautifulsoup4 vaderSentiment deep-translator
 
-
-
-
 Aparecerá un menú interactivo:
 
     Opción 1 – Solo RSS (12 fuentes de aviación, negocios y prensa regional)
