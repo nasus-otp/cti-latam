@@ -22,6 +22,11 @@ Debian:
     ~~~
     pip install requests feedparser beautifulsoup4 vaderSentiment deep-translator
 
+🚀 Ejecución
+    
+    python cti.py
+
+
 Aparecerá un menú interactivo:
 
     Opción 1 – Solo RSS (Se pueden agregar más y/o modificar el código)
