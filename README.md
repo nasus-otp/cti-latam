@@ -1,6 +1,7 @@
 🛰️ LATAM Airlines OSINT Pipeline 🛰️ 
 
 Pipeline automatizado de ciberinteligencia (CTI) para monitorizar la reputación de **LATAM Airlines Group** usando fuentes abiertas (OSINT).  
+
 Recolecta noticias desde **feeds RSS** especializados y realiza **búsquedas avanzadas (dorks)** en Bing, filtra contenido relevante, analiza el sentimiento con VADER y almacena los resultados en CSV sin duplicados.
 
 ****Instalación****
