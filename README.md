@@ -10,7 +10,7 @@ Debian:
 1. Clona el repositorio:
     ~~~
     git clone https://github.com/nasus-otp/cti-latam.git
-    cd latam-osint-pipeline
+    cd cti-latam
 
 2. Crea un entorno virtual (opcional pero recomendado):
     ~~~
@@ -24,9 +24,9 @@ Debian:
 
 Aparecerá un menú interactivo:
 
-    Opción 1 – Solo RSS (12 fuentes de aviación, negocios y prensa regional)
-    Opción 2 – Solo Dorks (10 búsquedas avanzadas en Bing)
-    Opción 3 – Ciclo completo (RSS + Dorks + alertas de sentimiento crítico)
+    Opción 1 – Solo RSS (Se pueden agregar más y/o modificar el código)
+    Opción 2 – Solo Dorks (Se pueden agregar más y/o modificar el código)
+    Opción 3 – Ciclo completo (RSS + Dorks + alertas de sentimiento)
 
 Los resultados se guardan en CTI_LATAM_informe.csv y el registro de actividad en latam_osint.log.
 
